@@ -15,7 +15,3 @@
     }
 
     asyncCall();
-
-function afterTime(){
-
-}
